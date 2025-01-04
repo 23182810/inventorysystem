@@ -1,0 +1,5 @@
+kullanici_adı,ad,md5_hashed_sifre,rol
+admin,Admin,5f4dcc3b5aa765d61d8327deb882cf99,Yönetici
+user1,Ali,202cb962ac59075b964b07152d234b70,Kullanıcı
+1,nisa,805bd24743a1e11fdbda67efea7cfee3,Kullanıcı
+2,nisa,805bd24743a1e11fdbda67efea7cfee3,Yönetici
