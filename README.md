@@ -4,13 +4,27 @@
 Bu proje, Zenity araçlarını kullanarak basit bir **Envanter Yönetim Sistemi** geliştirme amacı taşır. Sistemin özellikleri, işlevleri ve kullanım detayları aşağıda açıklanmıştır. Proje, kullanıcı dostu bir grafik arayüz sağlar ve ürün ile kullanıcı yönetimi gibi işlemleri destekler.
 
 ---
+![image](https://github.com/user-attachments/assets/95ff48a3-2606-4f70-9ad2-43e1628ab35f)
+
 
 ## Özellikler
 
 ### 1. Ürün İşlemleri
 - **Ürün Ekleme**: Kullanıcı, ürün adı, stok miktarı, birim fiyat ve kategori bilgilerini girerek yeni ürünler ekleyebilir. Aynı isimde bir ürün eklenmek istenirse hata mesajı görüntülenir ve işlem yapılmaz.
 - **Ürün Listeleme**: Mevcut ürünler bir tablo halinde gösterilir.
+ ![image](https://github.com/user-attachments/assets/098f2573-d75d-464f-8fd6-13b9fbc77248)
+
 - **Ürün Güncelleme**: Kullanıcı, bir ürünün stok, fiyat veya kategori bilgilerini güncelleyebilir.
+  ![image](https://github.com/user-attachments/assets/fc193935-e76f-47d8-8b03-2c747321a3b3),
+  ![image](https://github.com/user-attachments/assets/6a025674-858a-47bb-9497-e29b8860d649)
+  ![image](https://github.com/user-attachments/assets/2933de1c-9f2f-485d-b5fb-61990248570e)
+    ![image](https://github.com/user-attachments/assets/3775a055-d9f8-428c-a557-2c815b427029)
+  
+
+
+
+
+
 - **Ürün Silme**: Kullanıcı, bir ürünü seçerek silebilir. Silme işlemi öncesinde onay alınır.
 
 ### 2. Kullanıcı Yönetimi
@@ -19,15 +33,36 @@ Bu proje, Zenity araçlarını kullanarak basit bir **Envanter Yönetim Sistemi*
 - **Şifre Sıfırlama**: Yönetici, herhangi bir kullanıcının şifresini sıfırlayabilir.
 - **Kilitli Kullanıcı Açma**: 3 kez hatalı giriş nedeniyle kilitlenmiş kullanıcı hesapları yönetici tarafından aktif hale getirilebilir.
 - **Kullanıcı Silme**: Yönetici, belirtilen bir kullanıcıyı sistemden kaldırabilir.
+- ![image](https://github.com/user-attachments/assets/6adabbcb-cf83-4910-a218-5c01ff0cf5e1)
+-  ![image](https://github.com/user-attachments/assets/de253f8d-2517-41a3-8d79-413c9ce5a037)
+-![image](https://github.com/user-attachments/assets/f2fc9d88-a50d-41a8-804e-c9bfea66a334)
+![image](https://github.com/user-attachments/assets/453662ec-b3f1-488b-a9a4-4365ee85be42)
+
+
+
+
+
 
 ### 3. Raporlama
 - **Stokta Azalan Ürünler**: Eşik miktarın altındaki ürünler listelenir.
 - **En Yüksek Stok Miktarına Sahip Ürünler**: Belirtilen sayıda en yüksek stok miktarına sahip ürünler görüntülenir.
+- ![image](https://github.com/user-attachments/assets/9820e6cb-4097-4086-a80c-adc2469fdaac)
+- ![image](https://github.com/user-attachments/assets/48ce106d-0274-4192-8eb3-9ea7ef632917)
+- ![image](https://github.com/user-attachments/assets/65433313-b5c6-4f99-a780-1c9b4cfd5ea4)
+
+
+
 
 ### 4. Program Yönetimi
 - **Disk Kullanımı Gösterimi**: Programın kullandığı disk alanını gösterir.
+- ![image](https://github.com/user-attachments/assets/3e1a8555-3309-4bc4-af7a-6ba644d8ba4a)
+
 - **Dosya Yedekleme**: Ürün ve kullanıcı bilgilerini içeren dosyaları yedekler.
+- ![image](https://github.com/user-attachments/assets/8a1ffc45-af08-44b3-9edd-2ba3a6a8cc48)
+
 - **Hata Kayıtlarını Görüntüleme**: `log.csv` dosyasındaki hata kayıtlarını kullanıcıya sunar.
+- ![image](https://github.com/user-attachments/assets/0622b3fb-9982-4814-95a7-ad96899f195e)
+
 
 ---
 
@@ -115,7 +150,7 @@ Bu proje, Zenity araçlarını kullanarak basit bir **Envanter Yönetim Sistemi*
 
 1. **Sistemi Çalıştırma**
    ```bash
-   bash script.sh
+    envanter_yonetim.sh
    ```
 
 2. **Giriş**
@@ -143,41 +178,5 @@ Bu proje, Zenity araçlarını kullanarak basit bir **Envanter Yönetim Sistemi*
 2. **Kullanıcı Yönetimi**: Kullanıcı ekleme, listeleme, güncelleme ve silme işlevleri tamamlanmıştır.
 3. **Hatalı Giriş Yönetimi**: Üç hatalı giriş sonrası kilitleme ve yönetici tarafından kilit açma mekanizması çalışmaktadır.
 
-### B. Kullanıcı Arayüzü (15 Puan)
-1. Zenity araçları etkin şekilde kullanılmıştır.
-2. Menü yapısı düzenlidir ve kullanıcı dostudur.
 
-### C. Teknik Yetkinlik (15 Puan)
-1. Linux komutları doğru ve etkili şekilde kullanılmıştır.
-2. Kod, modüler bir yapıdadır ve okunabilirlik ön plandadır.
-
-### D. Yaratıcılık ve Ek Özellikler (10 Puan)
-1. Yeni bir raporlama türü veya güvenlik önlemleri eklenmiştir.
-2. Hata yönetimi ve uygun mesajlar sağlanmıştır.
-
----
-
-## Ekran Görüntüleri
-
-### Giriş Ekranı
-![Giriş](https://via.placeholder.com/600x300)
-
-### Ana Menü
-![Ana Menü](https://via.placeholder.com/600x300)
-
-### Ürün Ekleme
-![Ürün Ekleme](https://via.placeholder.com/600x300)
-
-### Raporlama
-![Raporlama](https://via.placeholder.com/600x300)
-
----
-
-## Video Kılavuz
-[Yönetim Sistemi Kullanımı - YouTube](https://youtube.com)
-
----
-
-## Lisans
-Bu proje MIT lisansı ile lisanslanmıştır.
 
