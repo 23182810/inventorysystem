@@ -11,8 +11,7 @@ Bu proje, Zenity araçlarını kullanarak basit bir **Envanter Yönetim Sistemi*
 
 ### 1. Ürün İşlemleri
 - **Ürün Ekleme**: Kullanıcı, ürün adı, stok miktarı, birim fiyat ve kategori bilgilerini girerek yeni ürünler ekleyebilir. Aynı isimde bir ürün eklenmek istenirse hata mesajı görüntülenir ve işlem yapılmaz.
-- **Ürün Listeleme**: Mevcut ürünler bir tablo halinde gösterilir.
- ![image](https://github.com/user-attachments/assets/098f2573-d75d-464f-8fd6-13b9fbc77248)
+- **Ürün Listeleme**: Mevcut ürünler bir tablo halinde gösterilir. ![image](https://github.com/user-attachments/assets/098f2573-d75d-464f-8fd6-13b9fbc77248)
 
 - **Ürün Güncelleme**: Kullanıcı, bir ürünün stok, fiyat veya kategori bilgilerini güncelleyebilir.
   ![image](https://github.com/user-attachments/assets/fc193935-e76f-47d8-8b03-2c747321a3b3),
