@@ -170,12 +170,6 @@ Bu proje, Zenity araçlarını kullanarak basit bir **Envanter Yönetim Sistemi*
 
 ---
 
-## Değerlendirme Kriterlerine Uygunluk
-
-### A. Fonksiyonel Doğruluk (30 Puan)
-1. **Ana İşlevler**: Ürün ekleme, listeleme, güncelleme ve silme işlemleri eksiksiz çalışmaktadır.
-2. **Kullanıcı Yönetimi**: Kullanıcı ekleme, listeleme, güncelleme ve silme işlevleri tamamlanmıştır.
-3. **Hatalı Giriş Yönetimi**: Üç hatalı giriş sonrası kilitleme ve yönetici tarafından kilit açma mekanizması çalışmaktadır.
 
 
 
