@@ -16,7 +16,6 @@ Bu proje, Zenity araçlarını kullanarak basit bir **Envanter Yönetim Sistemi*
 
 - **Ürün Güncelleme**: Kullanıcı, bir ürünün stok, fiyat veya kategori bilgilerini güncelleyebilir.
 -  ![image](https://github.com/user-attachments/assets/fc193935-e76f-47d8-8b03-2c747321a3b3)
--  ! [image](https://github.com/user-attachments/assets/6a025674-858a-47bb-9497-e29b8860d649)
 -    ![image](https://github.com/user-attachments/assets/2933de1c-9f2f-485d-b5fb-61990248570e)  
 -  ![image](https://github.com/user-attachments/assets/3775a055-d9f8-428c-a557-2c815b427029)
   
