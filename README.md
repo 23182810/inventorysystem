@@ -15,8 +15,8 @@ Bu proje, Zenity araçlarını kullanarak basit bir **Envanter Yönetim Sistemi*
 - ![image](https://github.com/user-attachments/assets/098f2573-d75d-464f-8fd6-13b9fbc77248)
 
 - **Ürün Güncelleme**: Kullanıcı, bir ürünün stok, fiyat veya kategori bilgilerini güncelleyebilir.
--  ![image](https://github.com/user-attachments/assets/fc193935-e76f-47d8-8b03-2c747321a3b3),
--   [image](https://github.com/user-attachments/assets/6a025674-858a-47bb-9497-e29b8860d649)
+-  ![image](https://github.com/user-attachments/assets/fc193935-e76f-47d8-8b03-2c747321a3b3)
+-  ! [image](https://github.com/user-attachments/assets/6a025674-858a-47bb-9497-e29b8860d649)
 -    ![image](https://github.com/user-attachments/assets/2933de1c-9f2f-485d-b5fb-61990248570e)  
 -  ![image](https://github.com/user-attachments/assets/3775a055-d9f8-428c-a557-2c815b427029)
   
@@ -31,9 +31,14 @@ Bu proje, Zenity araçlarını kullanarak basit bir **Envanter Yönetim Sistemi*
 - **Kilitli Kullanıcı Açma**: 3 kez hatalı giriş nedeniyle kilitlenmiş kullanıcı hesapları yönetici tarafından aktif hale getirilebilir.
 - **Kullanıcı Silme**: Yönetici, belirtilen bir kullanıcıyı sistemden kaldırabilir.
 - ![image](https://github.com/user-attachments/assets/6adabbcb-cf83-4910-a218-5c01ff0cf5e1)
+  
 -  ![image](https://github.com/user-attachments/assets/de253f8d-2517-41a3-8d79-413c9ce5a037)
+  
 -![image](https://github.com/user-attachments/assets/f2fc9d88-a50d-41a8-804e-c9bfea66a334)
+
 ![image](https://github.com/user-attachments/assets/453662ec-b3f1-488b-a9a4-4365ee85be42)
+
+
 
 
 
