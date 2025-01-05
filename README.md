@@ -1,5 +1,5 @@
 # inventorysystem
-# Zenity ile Basit Envanter Yönetim Sistemi
+# Zenity ile Envanter Yönetim Sistemi
 
 Bu proje, Zenity araçlarını kullanarak basit bir **Envanter Yönetim Sistemi** geliştirme amacı taşır. Sistemin özellikleri, işlevleri ve kullanım detayları aşağıda açıklanmıştır. Proje, kullanıcı dostu bir grafik arayüz sağlar ve ürün ile kullanıcı yönetimi gibi işlemleri destekler.
 
@@ -171,6 +171,8 @@ Bu proje, Zenity araçlarını kullanarak basit bir **Envanter Yönetim Sistemi*
 - Hatalar `log.csv` dosyasına kaydedilir.
 
 ---
+## Görsel Anlatımlı Video
+https://www.youtube.com/watch?v=zVxYEJkZbVw
 
 
 
